@@ -1,3 +1,3 @@
 # ТОВ «ФК "КІФ"»
-- [Офіційний сайт](http://www.kif-finance.com/)
+- [Офіційний сайт](https://kif-finance.com)
 - [Вихідний код](./docs)
